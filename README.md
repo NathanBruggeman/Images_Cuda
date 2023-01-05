@@ -1,6 +1,6 @@
 # Images_Cuda
 
-#Jupyter_Notebook
+## Jupyter_Notebook
 
 !wget https://github.com/NathanBruggeman/Images_Cuda/blob/main/img1.png  
 !wget https://github.com/NathanBruggeman/Images_Cuda/blob/main/img0.png  
